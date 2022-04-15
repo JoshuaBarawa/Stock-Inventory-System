@@ -1,5 +1,5 @@
 # End-Points
-v1/account/ register/ [name='register-user']
+* v1/account/ register/ [name='register-user']
 v1/account/ register-clerk/ [name='register-clerk']
 v1/account/ login/ [name='login-user']
 v1/account/ logout/ [name='logout-user']
