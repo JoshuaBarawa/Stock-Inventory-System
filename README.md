@@ -11,7 +11,6 @@
 * v1/account/ delete/<str:id>/ [name='delete-clerk']
 
 
-* v1/account/
 * v1/product/ add/ [name='add-product']
 * v1/product/ status/paid/ [name='paid-products']
 * v1/product/ status/unpaid/ [name='unpaid-products']
