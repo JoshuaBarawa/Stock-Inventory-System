@@ -1,3 +1,6 @@
+# Root End-Point
+* https://stock-inv.herokuapp.com/v1/account/login/
+
 # End-Points
 * v1/account/ register/ [name='register-user']
 * v1/account/ register-clerk/ [name='register-clerk']
